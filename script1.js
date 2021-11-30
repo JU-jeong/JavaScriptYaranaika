@@ -8,3 +8,4 @@ window.console.log("주정석") //콘솔화면에 기록을 남기겠다
 console.log('고양이')
 console.log("하나 더")
 console.clear() //?
+
